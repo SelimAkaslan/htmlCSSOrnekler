@@ -1,0 +1,72 @@
+* {
+  text-align: left;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+}
+h2 {
+  margin-top: 50px;
+}
+body {
+  background-image: linear-gradient(
+    rgb(12, 242, 250),
+    rgb(102, 86, 245),
+    rgb(124, 23, 240)
+  );
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: 16px Helvetica, Sans-Serif;
+  line-height: 24px;
+}
+.clear {
+  clear: both;
+}
+#p1 {
+  width: 800px;
+  margin: 40px auto 60px;
+}
+
+h2 {
+  margin: 16px;
+  padding: 16px;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: -2px;
+  border-bottom: 1px solid #999;
+}
+
+p {
+  margin: 0 0 16px 0;
+}
+
+ul {
+  margin: 0 0 32px 17px;
+}
+dt {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
+  padding: 0 26px 0 0;
+  width: 150px;
+  float: left;
+  height: 100px;
+  border-right: 1px solid gainsboro;
+}
+dd {
+  width: 600px;
+  float: right;
+}
+dd.clear {
+  float: none;
+  margin: 0;
+  height: 15px;
+}
